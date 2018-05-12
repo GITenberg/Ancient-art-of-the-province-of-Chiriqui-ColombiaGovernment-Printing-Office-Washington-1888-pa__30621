@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7330
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30621#Ancient-art-of-the-province-of-Chiriqui-ColombiaGovernment-Printing-Office-Washington-1888-pa_
 gutenberg_issued: '2009-12-07'
 gutenberg_type: Text
 identifiers:
