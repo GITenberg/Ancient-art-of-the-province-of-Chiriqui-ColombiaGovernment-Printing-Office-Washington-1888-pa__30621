@@ -1,0 +1,39 @@
+_repo: Ancient-art-of-the-province-of-Chiriqui-ColombiaGovernment-Printing-Office-Washington-1888-pa__30621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, William Henry
+    aliases:
+    - Holmes, William H. (William Henry)
+    - Holmes, W. H. (William Henry)
+    birthdate: 1846
+    deathdate: 1933
+    gutenberg_agent_id: '7330'
+    url: http://www.gutenberg.org/2009/agents/7330
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Holmes
+description: ''
+gutenberg_issued: '2009-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30621'
+  lccn: '01020000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian pottery -- Panama'
+- !lcc 'F1561'
+- !lcsh 'Chiriquí (Panama : Province) -- Antiquities'
+- !lcsh 'Indians of Central America -- Panama'
+title: 'Ancient art of the province of Chiriqui, Colombia
+
+  Sixth Annual Report of the Bureau of Ethnology to the
+
+  Secretary of the Smithsonian Institution, 1884-1885,
+
+  Government Printing Office, Washington, 1888, pages 3-188'
+url: http://www.gutenberg.org/ebooks/30621
